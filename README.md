@@ -1,3 +1,3 @@
 # nginx
 
-Nginx cookbook for python uber app
+Nginx cookbook for python uber app.
